@@ -1,0 +1,48 @@
+HAM (Not Spam) Messages
+
+Hey, are we still meeting today at 6?
+Don’t forget to bring your notebook to class.
+I have sent you the file, please check once.
+Call me when you reach home.
+Let’s go for dinner tonight.
+Can you help me with the assignment?
+I’ll be late today, traffic is heavy.
+Happy birthday bro! Have a great day.
+Meeting is postponed to tomorrow.
+Where are you? I’m waiting outside.
+Did you complete the project work?
+Let’s watch a movie this weekend.
+Please send me your address.
+I will call you in 10 minutes.
+Thanks for your help yesterday.
+
+SPAM Messages
+
+Congratulations! You have won a $1000 gift card. Click here to claim now.
+URGENT! Your account has been compromised. Verify immediately.
+Win cash prizes up to $5000. Limited offer!
+You have been selected for a free iPhone. Click the link now.
+Get loan approved instantly with zero interest. Apply today!
+Exclusive deal! Buy 1 get 2 free. Shop now.
+Claim your lottery prize before it expires.
+You have won a free vacation. Call now to claim.
+Earn money from home with no investment. Join now.
+Act now! Limited time offer just for you.
+Get cheap medicines without prescription. Order now.
+Congratulations! You are selected for a lucky draw.
+Click here to verify your bank details immediately.
+Free entry into contest. Win exciting rewards.
+Special discount available only today. Hurry up!
+
+Mixed / Tricky Messages (Good for Testing Model Accuracy)
+
+Hey, you won’t believe this offer I found today!        → Spam
+Call me ASAP, it’s urgent.                              → Not Spam
+Limited seats available for the workshop, register now. → Spam
+I got a free coupon, want it?                           → Spam
+Let’s meet tomorrow, I have something exciting to tell. → Not Spam
+You have received a message from unknown sender.        → Spam
+Your OTP is 458921. Do not share with anyone.           → Not Spam
+Reminder: Your subscription expires today.              → Not Spam
+This is to inform you about your recent transaction.    → Not Spam
+Congrats bro, party tonight!                            → Not Spam
