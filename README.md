@@ -48,3 +48,5 @@ streamlit run app.py
 `Spam 🚨`
 
 ### Built by Vedant Bhavsar as part of Machine Learning project
+
+`App Link: [Click here](http://vedant-spam-classifier.streamlit.app/)
